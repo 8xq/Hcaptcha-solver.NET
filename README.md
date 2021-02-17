@@ -22,13 +22,14 @@ As seen above 2captcha only requires 3 parameters to be provided
 If captcha has any issues the bools returned will be false
 
 Line 1 - Create object/instance for the solver class
-Line 2 - Get a 2captcha task ID (starts process of 2captcha solving the hcaptcha)
-Line 3 - This simply checks the 2captcha task ID if captcha was solved or not
+Line 2 - Set 2captcha API key for solving
+Line 3 - Get a 2captcha task ID (starts process of 2captcha solving the hcaptcha)
+Line 4 - This simply checks the 2captcha task ID if captcha was solved or not
 
 Bool IDstatus (True/False) - checks if 2captcha accepted the request & if a task ID was returned
 Bool CaptchaSolvedResult (True/False) - checks if captcha result was returned 
 ```
-![Alt text](https://i.imgur.com/n5WjBtp.png "Example")
+![Alt text](https://i.imgur.com/Do9qgT1.png "Example")
 
 
 
