@@ -1,0 +1,14 @@
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\bin\Debug\Example HcaptchaSolver.exe.config
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\bin\Debug\Example HcaptchaSolver.exe
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\bin\Debug\Example HcaptchaSolver.pdb
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\bin\Debug\HcaptchaSolverNET.pdb
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\obj\Debug\Example HcaptchaSolver.csprojAssemblyReference.cache
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\obj\Debug\Example_HcaptchaSolver.Form1.resources
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\obj\Debug\Example_HcaptchaSolver.Properties.Resources.resources
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\obj\Debug\Example HcaptchaSolver.csproj.GenerateResource.cache
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\obj\Debug\Example HcaptchaSolver.csproj.CoreCompileInputs.cache
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\obj\Debug\Example HcaptchaSolver.csproj.CopyComplete
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\obj\Debug\Example HcaptchaSolver.exe
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\obj\Debug\Example HcaptchaSolver.pdb
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\bin\Debug\Leaf.xNet.dll
+C:\Users\Tesco\source\repos\Example HcaptchaSolver\bin\Debug\HcaptchaSolverNET.dll
