@@ -14,7 +14,7 @@ APIkey - (2captcha API key with balance)
 SiteKey - specific to the site
 Domain - This is the URL matching the "sitekey"
 ```
-
+![Alt text](https://i.imgur.com/Fk1WnIt.png "Example")
 # Hcaptcha C# usage
 ```
 As you can see below there is only 2 methods needed to solve Hcaptcha 
