@@ -1,0 +1,6 @@
+C:\Users\Tesco\source\repos\HcaptchaSolverNET\bin\Debug\HcaptchaSolverNET.dll
+C:\Users\Tesco\source\repos\HcaptchaSolverNET\bin\Debug\HcaptchaSolverNET.pdb
+C:\Users\Tesco\source\repos\HcaptchaSolverNET\obj\Debug\HcaptchaSolverNET.csprojAssemblyReference.cache
+C:\Users\Tesco\source\repos\HcaptchaSolverNET\obj\Debug\HcaptchaSolverNET.csproj.CoreCompileInputs.cache
+C:\Users\Tesco\source\repos\HcaptchaSolverNET\obj\Debug\HcaptchaSolverNET.dll
+C:\Users\Tesco\source\repos\HcaptchaSolverNET\obj\Debug\HcaptchaSolverNET.pdb
